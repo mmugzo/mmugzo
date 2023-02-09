@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**mmugzo/mmugzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Freelance Github Page for cool projects for future clients and cookie cutters to fast track project setup.
+
+# Freelance Github Page for cool projects for future clients and cookie cutters to fast track project setup.
 
 - 🔭 I’m currently working on ... Python and React Freelance Projects
 - 🌱 I’m currently learning ...
