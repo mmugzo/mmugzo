@@ -2,7 +2,7 @@
 
 
 
-# Freelance Github Page for cool projects for future clients and cookie cutters to fast track project setup.
+For Freelance Projects and cool projects.
 
 - 🔭 I’m currently working on ... Python and React Freelance Projects
 - 🌱 I’m currently learning ...
