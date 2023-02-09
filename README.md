@@ -2,7 +2,7 @@
 
 
 
-For Freelance Projects and cool projects.
+For Freelance Projects showcase and cookie cutters.
 
 - 🔭 I’m currently working on ... Python and React Freelance Projects
 - 🌱 I’m currently learning ...
