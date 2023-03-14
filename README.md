@@ -10,7 +10,12 @@ For Freelance Projects showcase and cookie cutters.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Freelance Gigs and Backend Developer Roles (Python)
 - 📫 How to reach me: ... muggo.sam@gmail.com
+---------
+**Weekly development breakdown**
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+----------
 
 
