@@ -1,16 +1,16 @@
-name: WakaTime stats
+name: Waka - Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: Waka Dev Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.1.8
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -19,5 +19,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
           
