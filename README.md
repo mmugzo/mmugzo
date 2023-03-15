@@ -13,6 +13,16 @@ For Freelance Projects showcase and cookie cutters.
 ---------
 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+From: 07 March 2023 - To: 14 March 2023
+
+Total Time: 18 mins
+
+Python          17 mins         ████████████████████████░   96.00 %
+AUTO_DETECTED   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ----------
