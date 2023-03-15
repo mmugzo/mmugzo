@@ -1,4 +1,4 @@
-name: Waka - Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -10,13 +10,13 @@ jobs:
     name: Waka Dev Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.1.8
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED: true
-          SHOW_MASKED_TIME: true
+#           SHOW_TITLE: true
+#           BLOCKS: ->
+#           TIME_RANGE: last_7_days
+#           SHOW_TIME: true
+#           SHOW_MASKED: true
+#           SHOW_MASKED_TIME: true
           
