@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to the Github page of Samuel Mugo.
+### Hi there 👋 
 
 
 
