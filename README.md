@@ -13,7 +13,6 @@ For Freelance Projects showcase and cookie cutters.
 ---------
 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ----------
