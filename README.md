@@ -15,11 +15,13 @@ For Freelance Projects showcase and cookie cutters.
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-Total Time: 18 mins
+Total Time: 35 mins
 
-Python   18 mins         █████████████████████████   100.00 %
+Python     18 mins         █████████████░░░░░░░░░░░░   51.93 %
+Text       14 mins         ██████████▒░░░░░░░░░░░░░░   41.14 %
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
