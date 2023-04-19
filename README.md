@@ -15,16 +15,15 @@ For Freelance Projects showcase and cookie cutters.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Total Time: 6 hrs 23 mins
+Total Time: 8 hrs 41 mins
 
-Python       4 hrs 50 mins   ███████████████████░░░░░░   75.80 %
-JavaScript   1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-CSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   7 hrs 3 mins    ████████████████████▒░░░░   81.21 %
+JSON         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Python       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+CSV          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
