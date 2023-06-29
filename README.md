@@ -15,11 +15,11 @@ For Freelance Projects showcase and cookie cutters.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-Total Time: 59 mins
+Total Time: 2 hrs 34 mins
 
-Java   59 mins         █████████████████████████   100.00 %
+Java   2 hrs 34 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
