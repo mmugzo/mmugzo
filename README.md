@@ -17,9 +17,11 @@ For Freelance Projects showcase and cookie cutters.
 ```txt
 From: 30 June 2024 - To: 07 July 2024
 
-Total Time: 0 secs
+Total Time: 28 mins
 
-No activity tracked
+Markdown   15 mins         █████████████▓░░░░░░░░░░░   54.05 %
+Python     12 mins         ███████████░░░░░░░░░░░░░░   44.51 %
+XML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
