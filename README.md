@@ -15,13 +15,14 @@ For Freelance Projects showcase and cookie cutters.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
-Total Time: 2 hrs 30 mins
+Total Time: 4 hrs 56 mins
 
-Python     1 hr 28 mins    ██████████████▓░░░░░░░░░░   58.99 %
-XML        39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-Markdown   21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+XML          2 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.14 %
+Python       2 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.09 %
+Markdown     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
