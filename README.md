@@ -14,13 +14,7 @@ For Freelance Projects showcase and cookie cutters.
 **Weekly development breakdown**
 
 
-```txt
-From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 0 secs
-
-No activity tracked
-```
 
 
 
